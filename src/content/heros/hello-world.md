@@ -1,7 +1,7 @@
 ---
 templateKey: heros
-title: Hello world
-subtitle: 'how are you '
+title: I'm a freaking HERO
+subtitle: What about you?
 backgroundImage: /img/bg-blob-green.svg
 foregroundImage: /img/mocks.svg
 ---
