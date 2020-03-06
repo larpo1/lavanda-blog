@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":5,"head":"7ff0a20a00cafe73bfc61b7ca2606d85ec253915"},"user":"david","status":"draft","branch":"cms/hello-world","collection":"heros","title":"Hello world","description":"No Description!","objects":{"entry":{"path":"src/content/heros/hello-world.md","sha":"0f2d3dca2c0246d17f5a881b00fbe3fb8f589b87"},"files":[]},"timeStamp":"2020-03-06T19:25:20.496Z"}
